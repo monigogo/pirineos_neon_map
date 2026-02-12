@@ -1,4 +1,4 @@
-# 🏔️ Pirineos Neon-Visualizer
+# 🏔️ Pirineos Neon-Map
 
 Visualización animada de los Pirineos (Huesca) con datos de **OpenStreetMap**. Este proyecto resalta tresmiles y estaciones de esquí con un estilo neón dinámico.
 
